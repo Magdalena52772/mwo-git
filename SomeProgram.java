@@ -6,4 +6,7 @@ public class SomeProgram {
     public void manageTheSatellite() {
         //TODOimplement
     }
+    public void manageTheSatellite() {
+        //TODOimplement
+    }
 }
