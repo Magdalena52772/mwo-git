@@ -1,1 +1,1 @@
-README - wersja 1. Master
+Podstawy używania Gita - praca na plikach
